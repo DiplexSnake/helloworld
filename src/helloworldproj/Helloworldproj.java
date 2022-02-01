@@ -15,7 +15,7 @@ public class Helloworldproj {
      */
     public static void main(String[] args) {
 System.out.println("hello world");
-        System.out.println(" From git");
+        System.out.println(" From git!");
         // TODO code application logic here
     }
     
